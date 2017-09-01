@@ -8,3 +8,8 @@ Contributors in no certain order (Github acccounts):
 CSLedbetter,
 Klullo,
 roxanneu
+
+
+After cloning of this repository you would need to use a .env file to hold you API keys for Stripe, SendGrid, and any other email addresses you would not like to be published online.
+
+You would then use "npm i" (npm install) and then 'gulp" to start the local server on your machine.
