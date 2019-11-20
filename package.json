@@ -4,7 +4,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "angular": "^1.6.5",
+    "angular": "^1.7.9",
     "body-parser": "^1.14.0",
     "bootstrap": "^3.3.7",
     "dotenv": "^4.0.0",
